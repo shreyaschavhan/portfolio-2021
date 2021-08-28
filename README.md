@@ -1,6 +1,6 @@
 # 𝐒𝐡𝐫𝐞𝐲𝐚𝐬 𝐂𝐡𝐚𝐯𝐡𝐚𝐧
 
-<img src = "https://user-images.githubusercontent.com/67257167/131209471-2f043e88-de55-4a2e-be50-e1cfbbbd2add.png" align="right" width="350px">
+<img src = "https://user-images.githubusercontent.com/68887544/131223352-af4ca890-0b5e-4066-893f-f9b7b622043d.png" align="right" width="350px">
 
 ## ⁍ 𝐃𝐞𝐬𝐜𝐫𝐢𝐩𝐭𝐢𝐨𝐧:
 
@@ -15,19 +15,24 @@
 > * I will be walking you through my website (audio muted) via this video.
 > * Have a Look - 
 
-https://user-images.githubusercontent.com/68887544/131211370-7c1c74db-910f-4fcb-94a2-cd2e0aa21224.mp4
+
+
+https://user-images.githubusercontent.com/68887544/131223633-0c7b92a3-2642-44fb-9ef6-068b5fa39043.mp4
+
+
 
 
 ### 𝐓𝐢𝐦𝐞 𝐒𝐭𝐚𝐦𝐩𝐬 -
 
-> * 0:00 - 2:55 : Normal Desktop Width of my Laptop (1536px) 
-> * 3:10 - 4:20 : Width 400px (Responsive)
-> * 4:25 - 4:56 : Width 360px (Moto G4 and Galaxy S5)
-> * 4:56 - 5:44 : Width 411px (Pixel 2)
-> * 5:44 - 5:57 : Width 411px (Pixel 2XL)
-> * 5:57 - 6:15 : Width 320px (iPhone 5/SE)
-> * 6:15 - 6:27 : Width 375px (iPhone 6/7/8)
-> * 6:27 - 7:29 : Complete Responsive Width (from smaller to higher)
+> * 0:00 - 1:55 : Normal screen width of my device (1536px)
+> * 1:55 - 3:33 : Completely Responsive (from small to big width)
+> * 3:33 - 4:13 : Width 360px (Moto G2)
+> * 4:13 - 4:39 : Width 411px (Pixel2)
+> * 4:39 - 5:00 : Width 320px (iPhone 5/SE)
+> * 5:00 - 5:15 : Width 375px (iPhone X)
+> * 5:15 - 5:34 : Width 1024px (iPad Pro)
+> * 5:34 - 5:54 : Width 280px (Galaxy fold)
+
 
 ---
 
